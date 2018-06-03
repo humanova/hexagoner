@@ -83,7 +83,7 @@ void setWorldAngle(HANDLE handle, long address, int angle){
     writeMemory(handle,address,angle);
 }
 
-//find maximum value in an 1D array and return its  
+//find maximum value in an 1D array and return its indice (sira)
 int findMax(short arr[],int slots){
     int max,sira;
 

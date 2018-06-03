@@ -10,7 +10,7 @@
 
 #define TEST 0       
 //I used to check some variables and adresses
-//They're still avaliable in the code but, not going to be...
+//They're still available in the code but, not going to be...
 //compiled if you set TEST to 0
 
 using namespace std;
@@ -86,11 +86,11 @@ start:
         currSlot = getPlayerSlot(playerAngle,slots);        //never used
 
         //playerangle and playerangle2 both has the same degrees but when I changed only one of thems value...
-        //cursor started flicking out to 2 location at the same time, so it was necessary to set both...
-        //of them to correct degree
+        //cursor started flicking out to 2 locations at the same time, so it was necessary to set both...
+        //of them to the correct degree
 
     
-        //Get wall's slots, distances and isWallAlive values, when wall hits to center, they visually get 
+        //Get walls' slots, distances and isWallAlive values, when wall hits to center, they visually get 
         //deleted, but their slot values and distance values stays still, I can check this with isWallAlive 
         //value
     

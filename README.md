@@ -12,7 +12,7 @@ YouTube : https://www.youtube.com/watch?v=_YfpPHEh3WQ&feature=youtu.be
  
  
 ## Hexagoner Natural (Work in progress)
- Simulates player clicks to get close to correct angle.
+ Simulates player clicks to get closer to the correct angle.
 
 ![hexagoner_natual_gif](https://github.com/humanova/hexagoner/blob/master/media/hexagon_gif_natural.gif "hexagoner natural")
 

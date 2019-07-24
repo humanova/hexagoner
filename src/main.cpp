@@ -1,7 +1,5 @@
-//Emir Erbasan May 18' - June 18' 
-
-// I'm not good at reverse engineering things but I am getting used to...
-//(so i may be coded a little bit shitty)
+// Emir Erbasan 
+// MIT License, see LICENSE for more details
 
 #include <iostream>
 #include <stdio.h>

@@ -1,7 +1,7 @@
-//Emir Erbasan May 18' - June 18'
+// Emir Erbasan
+// MIT License, see LICENSE for more details
+
 //header file for memory offsets of Super Hexagon...
-//writing-reading in memory and calculating some stuff
-//like current player slot
 #include <iostream>
 #include <Windows.h>
 #include <tchar.h>
